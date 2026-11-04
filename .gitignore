@@ -8,3 +8,13 @@ wheels/
 
 # Virtual environments
 .venv
+mon_env/
+
+# Secrets
+.env
+
+# Donnees
+data/
+
+# Notebooks
+.ipynb_checkpoints/
